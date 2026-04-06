@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @KrityaRajansh
-- 👀 I’m interested in academics
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on designing
-- 📫 How to reach me kritya12rajansh@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: very funny
+# Hi, I'm Kritya Rajansh 👋
 
-<!---
-KrityaRajansh/KrityaRajansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE @ IIIT Kalyani
+📊 Interested in Machine Learning, Data Analytics & Python Development
+🔬 Research Intern (DRDO Sponsored Project) – Post-Quantum Cryptography
+
+---
+
+## 🚀 What I'm Working On
+
+* 📡 SAR Image Processing & Enhancement (Deep Learning + Signal Processing)
+* 🧠 ML-based Clinical Risk Prediction Systems
+* 🔐 Post-Quantum Cryptography Implementations
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Python, C, SQL
+* **ML/Data:** Scikit-learn, Pandas, NumPy, PyTorch
+* **Tools:** Git, GitHub, Google Colab, Jupyter
+* **Concepts:** DSA, OOP, DBMS
+
+---
+
+## 📈 GitHub Stats
+
+![Kritya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrityaRajansh\&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/kritya-rajansh-b86220287
+* GitHub: https://github.com/KrityaRajansh
+
+---
+
+⭐ *Currently building projects to deepen my understanding of ML systems and scalable software.*
