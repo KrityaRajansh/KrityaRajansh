@@ -32,7 +32,6 @@
 ## 🔗 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/kritya-rajansh-b86220287
-* GitHub: https://github.com/KrityaRajansh
 
 ---
 
