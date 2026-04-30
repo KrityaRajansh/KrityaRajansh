@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE @ IIIT Kalyani
 📊 Interested in Machine Learning, Data Analytics & Python Development
-🔬 Research Intern (DRDO Sponsored Project) – Post-Quantum Cryptography
+🔬 Research Intern (DRDO Sponsored Project), Post-Quantum Cryptography
 
 ---
 
