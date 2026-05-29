@@ -37,4 +37,10 @@
 
 ---
 
+## Resume
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red)](./KrityaRajansh_resume_v4.pdf)
+
+---
+
 ⭐ *Talent works, Genius creates*
