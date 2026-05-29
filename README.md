@@ -2,15 +2,15 @@
 
 * B.Tech (CSE) @ IIIT Kalyani
 * Interested in Web Development (MERN), Machine Learning, & Python Development
-* Been a Research Intern (DRDO Sponsored Project), Post-Quantum Cryptography
+* **Been a Research Intern** (DRDO Sponsored Project), Post-Quantum Cryptography
 
 ---
 
 ## What I've Worked On
 
-* Doc-Doctor: Enterprise Search (MERN + Python API microservices using Flask)
-* SAR Image Processing & Enhancement (Python, Deep Learning + Signal Processing)
-* P2P node simulation using Kademlia DHT (Python, would rebuilt in C++)
+* **Doc-Doctor**: Enterprise Search (MERN + Python API microservices using Flask)
+* **SAR Image**Processing & Enhancement (Python, Deep Learning + Signal Processing)
+* **P2P node** simulation using Kademlia DHT (Python, would rebuilt in C++)
 * ML-based Clinical Risk Prediction Systems (Python, Basic ML project)
   
 
